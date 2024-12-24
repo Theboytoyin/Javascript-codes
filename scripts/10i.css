@@ -1,0 +1,33 @@
+.button-css {
+  height: 50px;
+  width: 50px;
+  padding: 15px;
+  border-radius: 25px;
+  font-size: 20px;
+  background-color: rgba(0, 0, 0, 0.842);
+  color: white;
+  border: none;
+}
+.button-cs {
+  height: 50px;
+  width: 50px;
+  padding: 15px;
+  border-radius: 25px;
+  font-size: 20px;
+  border: none;
+  background-color: orange;
+  color: white;
+}
+.button-c {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  font-size: 12px;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.842);
+  color: white;
+}
+.js-calculation {
+  font-size: 40px;
+  font-weight: bold;
+}
